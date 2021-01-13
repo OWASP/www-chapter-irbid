@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ahmed Saleh Shatnawi](mailto:ahmed.shatnawi@owasp.org)
+* [Eyad Salah Taqieddin](mailto:eyad.taqieddin@owasp.org)
