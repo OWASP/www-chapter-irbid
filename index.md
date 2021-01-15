@@ -10,7 +10,7 @@ region: Asia
 
 ## Welcome
 Thank you for your interest in the Irbid OWASP chapter. We are located in in the north of Jordan with the second largest population in the kingdom, Irbid is a mix of authentic Arabian society with flashes of western influence. Boasting panoramic views of the West Bank and ancient architectures from the Roman era. We are a local chapter seeking new members. To join please visit our Meetup.
-<img src=""/>
+<img src="https://www.just.edu.jo/assets/just/images/facts-bg.jpg"/>
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
