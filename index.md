@@ -9,7 +9,7 @@ region: Asia
 
 
 ## Welcome
-Thank you for your interest in the Irbid OWASP chapter. We are located in in the north of Jordan with the second largest population in the kingdom, Irbid is a mix of authentic Arabian society with flashes of western influence. Boasting panoramic views of the West Bank and ancient architectures from the Roman era. We are a local chapter seeking new members. To join please visit our Meetup.
+Thank you for your interest in the Irbid OWASP chapter. We are located in the north of Jordan with the second largest population in the kingdom of Jordan, Irbid is a mix of authentic Arabian society with flashes of western influence. Boasting panoramic views of the West Bank and ancient architectures from the Roman era. We are a local chapter seeking new members. To join please visit our Meetup.
 <img src="https://www.just.edu.jo/assets/just/images/facts-bg.jpg"/>
 
 ## Participation
