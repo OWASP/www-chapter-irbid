@@ -19,7 +19,7 @@ Call For Speakers is open. if you would like to present a talk on Application Se
 ALL ARE WELCOME
 When: Thursday, April 1st, 2021 @ 4:40PM
 
-Where: Online @ Zoom (RSVP at either link below to receive the URL)!
+Where: Online @ Zoom (RSVP to receive the URL)!
 
 Title: Digital Forensics
 
