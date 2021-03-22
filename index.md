@@ -16,23 +16,23 @@ Welcome to the OWASP Irbid chapter homepage. The chapter leaders are Ahmed Shatn
 Call For Speakers is open. if you would like to present a talk on Application Security, please review and agree with the OWASP Speaker Agreement and send us a proposed talk title, abstract and the speaker biography to the Chapter Leaders via emails.
 
 ## Upcoming Events
-ALL ARE WELCOME
-When: Thursday, April 1st, 2021 @ 4:40PM
+ALL ARE WELCOME  
+When: Thursday, April 1st, 2021 @ 4:40PM  
 
-Where: Online @ Zoom (RSVP to receive the URL)!
+Where: Online @ Zoom (RSVP to receive the URL)!  
 
-Title: Digital Forensics
+Title: Digital Forensics  
 
-Speaker:
-DR AMEER AL-NEMRAT
-SENIOR LECTURER AND PROGRAMME LEADER
-INFORMATION SECURITY AND COMPUTER FORENSICS
-School of Architecture Computing and Engineering (ACE)
-University of East Londo
+Speaker:  
+DR AMEER AL-NEMRAT  
+SENIOR LECTURER AND PROGRAMME LEADER  
+INFORMATION SECURITY AND COMPUTER FORENSICS  
+School of Architecture Computing and Engineering (ACE)  
+University of East Londo  
 
-RSVP by sending an email to: ahmed.shatnawi@owasp.org
+RSVP by sending an email to: ahmed.shatnawi@owasp.org  
 
-Zoom Meeting: RSVP above to receive the Zoom URL!
+Zoom Meeting: RSVP above to receive the Zoom URL!  
 
 
 ## Participation
