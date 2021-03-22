@@ -17,7 +17,7 @@ Call For Speakers is open. if you would like to present a talk on Application Se
 
 ## Upcoming Events
 ALL ARE WELCOME  
-When: Thursday, April 1st, 2021 @ 4:40PM  
+When: Thursday, April 1st, 2021 @ 4:30PM  
 
 Where: Online @ Zoom (RSVP to receive the URL)!  
 
@@ -28,7 +28,7 @@ DR AMEER AL-NEMRAT
 SENIOR LECTURER AND PROGRAMME LEADER  
 INFORMATION SECURITY AND COMPUTER FORENSICS  
 School of Architecture Computing and Engineering (ACE)  
-University of East Londo  
+University of East London  
 
 RSVP by sending an email to: ahmed.shatnawi@owasp.org  
 
